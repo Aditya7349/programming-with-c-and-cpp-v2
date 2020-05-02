@@ -2,8 +2,8 @@
 
     int main() {
 
-        puts("I am Rahul.");
-        puts("I am 20 years old.");
+        pirntf("I am Aditya.");
+        pirntf("I am 18 years old.");
 
         return 0;
     }
